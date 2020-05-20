@@ -29,8 +29,7 @@ For this project I have used [Stack Overflow data from 2017](https://www.kaggle.
 ## File Descriptions <a name="files"></a>
 
 * Details in Jupyter Notebook
-* Datasets: [Stack Overflow Developer Survey](https://www.kaggle.com/stackoverflow/so-survey-2017/data), 2017 for the lives of over 64,000 Stack Overflow developers.   
-
+* Datasets: [Stack Overflow Developer Survey](https://www.kaggle.com/stackoverflow/so-survey-2017/data) 2017. 
 ## Results<a name="results"></a>
 
 The Result of the code can be found [here](https://medium.com/@abrarniaz205/data-scientist-survey-asian-vs-european-8d6e669d79ce).
